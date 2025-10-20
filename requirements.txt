@@ -1,0 +1,12 @@
+
+---
+
+## ⚙️ 2️⃣ `requirements.txt`
+
+Save this as **`requirements.txt`**:
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
