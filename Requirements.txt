@@ -1,0 +1,16 @@
+## **requirements.txt**
+pandas
+matplotlib
+seaborn
+
+
+## Folder Structure
+iris-data-exploration/
+│
+├── iris_exploration.ipynb # or iris_exploration.py
+├── requirements.txt
+├── README.md
+└── data/ # optional, if you save datasets locally
+
+
+
